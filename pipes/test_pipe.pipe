@@ -1,0 +1,5 @@
+TOKEN "test_pipe_endpoint_read_3199" READ
+
+NODE test_pipe_0
+SQL >
+    SELECT * FROM analytics_events
